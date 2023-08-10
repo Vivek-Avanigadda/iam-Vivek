@@ -9,8 +9,8 @@
 
   <img align="right" alt="devops" width=400 height=200 src="work1.gif">
   
-- 🌱 I’m currently learning **Devops and AWS**
-- 📫 How to reach me **renatinaveen5@gmail.com**
+- 🌱 I’m currently learning **Pega**
+- 📫 How to reach me **vivekavanigadda02@gmail.com**
   
 - <p align="left"><a href="https://linkedin.com/in/naveenrenati" target="_blank"><img align="center" src="linkedin.svg" height="30" width="40" /></a></p>
 
