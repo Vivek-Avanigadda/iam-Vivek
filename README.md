@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Pega**
 - 📫 How to reach me **vivekavanigadda02@gmail.com**
   
-- <p align="left"><a href="https://linkedin.com/in/naveenrenati" target="_blank"><img align="center" src="linkedin.svg" height="30" width="40" /></a></p>
+- <p align="left"><a href="https://linkedin.com/in/vivek-avanigadda-37855b234" target="_blank"><img align="center" src="linkedin.svg" height="30" width="40" /></a></p>
 
 - <p align="left"><a href="https://naveenrenati.wordpress.com/" target="_blank"><img align="center" src="mywebsite.jpeg" height="30" width="40" /></a></p>
   
